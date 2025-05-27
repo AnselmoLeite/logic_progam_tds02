@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-     inteiro num1, num2, media
+     real num1, num2, media
  
     faca {
       escreva("Escreva a 1ª nota (de 0 a 10): ")
